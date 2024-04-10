@@ -24,3 +24,7 @@
 [Pipeline ETL](https://colab.research.google.com/drive/1G5jP8fjR076u20B-Iq7NYHU_yVdeLEr9?usp=sharing)
 
 [Procesos de Data Mining](https://colab.research.google.com/drive/1EyfMQN7mhNqxJrQDgzU2FZHWAhKfBR3i?usp=sharing)
+
+---
+
+**También he cargado el dataset limpio y transformado, si gustan hacer sus propios análisis del tema.**
