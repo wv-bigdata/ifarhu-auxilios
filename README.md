@@ -27,4 +27,10 @@
 
 ---
 
+## Insights
+
+[Análisis de gráficos obtenidos por Data Mining](https://github.com/wv-bigdata/ifarhu-auxilios/blob/main/insights-ifarhu/resumen.md)
+
+---
+
 **También he cargado el dataset limpio y transformado, si gustan hacer sus propios análisis del tema.**
