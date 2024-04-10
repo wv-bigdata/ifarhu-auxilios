@@ -33,4 +33,4 @@
 
 ---
 
-**También he cargado el dataset limpio y transformado, llamado "ifarhu_etl_full.csv". Si gustan hacer sus propios análisis del tema.**
+**También he cargado el [dataset](https://github.com/wv-bigdata/ifarhu-auxilios/blob/main/ifarhu_etl_full.csv) limpio y transformado. Si gustan hacer sus propios análisis del tema.**
