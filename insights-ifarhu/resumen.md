@@ -40,3 +40,9 @@
 ![Montos Beneficiarios Ocultos vs Montos Beneficiarios Expuestos](https://raw.githubusercontent.com/wv-bigdata/ifarhu-auxilios/main/insights-ifarhu/montos%20de%20ocultos%20vs%20montos%20de%20expuestos.png)
 
 * El monto total de los beneficiarios ocultos ronda los $75,6 millones; mientras que el de los beneficiarios expuestos ronda los $67 millones.
+
+---
+
+![Beneficiarios frecuentes](https://raw.githubusercontent.com/wv-bigdata/ifarhu-auxilios/main/insights-ifarhu/beneficiarios%20frecuentes.png)
+
+* Aquí se muestran los beneficiarios que han recibido 'Auxilios Económicos' en más de 1 ocasión, con el año en que fueron recibidos. Todos los que aparecen en la gráfica fueron beneficiados 2 veces.
