@@ -17,6 +17,10 @@
 
 ---
 
+**Actualización**: A principios del mes de Agosto del 2024 se anunció la publicación de una nueva base de datos más completa que recopila los beneficiarios del IFARHU desde el año 2014 al 2024. Entra [aquí](https://github.com/wv-bigdata/ifarhu-auxilios_2014-2024) para los insights de la base de datos nueva.
+
+---
+
 ## Notebooks
 
 [Función de Web Scraping](https://colab.research.google.com/drive/1rRyvgNTZ5d03iL_6-PGNwRgTKIKLHTC9?usp=sharing)
